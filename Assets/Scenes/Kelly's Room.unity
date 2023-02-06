@@ -13250,7 +13250,7 @@ GameObject:
   - component: {fileID: 1144425097}
   - component: {fileID: 1144425096}
   m_Layer: 0
-  m_Name: CANCEL Button
+  m_Name: Cancel Button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18361,7 +18361,7 @@ GameObject:
   - component: {fileID: 1846265316}
   - component: {fileID: 1846265319}
   m_Layer: 0
-  m_Name: OK Button
+  m_Name: Confirmation Button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
